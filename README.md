@@ -46,9 +46,17 @@ You can click the Preview link to take a look at your changes.
 Hello, 
 
 ## Experiences 
-* Term Project
-  * Predicting House Prices using Machine Learning Project           
-  * link URL to project : https://github.com/NatthanichaBoonluea/Term-Project
+* During my study at the university
+  * Term Project
+    * CS 245 Principles of Data Science
+      * Predicting House Prices using Machine Learning Project 
+      * Python programming for this project
+      * link URL to project : https://github.com/NatthanichaBoonluea/Term-Project
+  * Data Analysis and computing with Statiscal Packages
+    * R Programming
+      * Assignments in class : https://drive.google.com/drive/folders/1Qs8Mf6b5HcENPQGT57MjTq-wGl6vBFqV?usp=sharing
+    * SPSS
+      * Assignments in class : https://drive.google.com/file/d/1PH4p0HRKGYcFl7wVJ-rqOpiKZRMjcxLD/view?usp=sharing
 * Training in Government Big Data Institute (June, 2022)
   * Achievement :
 Hands-on Data Science and Machine Learning.

@@ -67,6 +67,7 @@ Hands-on Data Science and Machine Learning.
     * SQL & Database for Statistics
     * POWER BI
     * Data Story Telling
+ * Work part time at Mha-La-Nuea Shabu 
 ## Volunteer 
 * Staff in IMaSS2022 event at Thammasat University
 

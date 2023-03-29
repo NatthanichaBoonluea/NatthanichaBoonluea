@@ -1,12 +1,13 @@
 # 👋 Hello there! 
-Greetings, my name is Natthanicha Boonluea. I am now a third year student who is majoring in Statistics at Thammasat university . I am fascinated in field of Data Scientist. I am looking for my first internship to improve the skills that I have learned from the university. Especially, the internship will provide me an opportunity to apply the skills from the book to real life. And also the opportunity to learn the needed skills such as problem solving, decision making, team-player skills and much more.
+A motivated and data-driven individual with a passion for statistics and a strong foundation in mathematics, programming, and software tools. As a third-year student in statistics, I have honed my analytical and technical skills and developed a
+deep understanding of statistical concepts and techniques.
 ## My Personal
 * Name : Natthanicha Boonluea
 * Nickname: Puna
 * Phone  : +66964194608
 * E-mail : natthanichazp@gmail.com
 * linkIn : https://www.linkedin.com/in/natthanicha-boonluea-676195259/
-* Adress : 99, Moo 18, Khong Nueng, Khong Luang, Pathum Thani,  12120
+* Adress : 99, Moo 18, Khlong Nueng, Khlong Luang, Pathum Thani,  12120
 ## Education
 ### 2019 - current
 #### Bachelor's Degree
@@ -14,7 +15,6 @@ Greetings, my name is Natthanicha Boonluea. I am now a third year student who is
 - Faculty of Science and Technology
  - Major in Statistics
  - Minor in Data Science
- - [Transcript Terms .pdf](https://github.com/NatthanichaBoonluea/Personal/files/10353878/Transcript.4.term.pdf)
  - [Natthanicha Boonluea Transcript.pdf](https://github.com/NatthanichaBoonluea/Portfolio/files/11101015/Natthanicha.Boonluea.Transcript.pdf)
 
  ### 2016 - 2019
@@ -26,8 +26,8 @@ Greetings, my name is Natthanicha Boonluea. I am now a third year student who is
 - SPSS                        (intermediate)
 - R                           (intermediate)
 - Excel                       (intermediate)
+- Data Visualization          (intermediate)
 - SQL & Database                  (beginner)
-- Data Visualization              (beginner)
 - Power BI                        (beginner)          
 ### Soft  Skills
 - Time Management
@@ -66,7 +66,6 @@ Hands-on Data Science and Machine Learning.
     * SQL & Database for Statistics
     * POWER BI
     * Data Story Telling
- * Work part time at Mha-La-Nuea Shabu 
 ## Volunteer 
 * Staff in IMaSS2022 event at Thammasat University
 

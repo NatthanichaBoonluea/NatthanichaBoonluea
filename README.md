@@ -15,6 +15,7 @@ Greetings, my name is Natthanicha Boonluea. I am now a third year student who is
  - Major in Statistics
  - Minor in Data Science
  - [Transcript Terms .pdf](https://github.com/NatthanichaBoonluea/Personal/files/10353878/Transcript.4.term.pdf)
+ - https://drive.google.com/file/d/11cgCq65MTyQOuYB88dWE4yG8un7JftJN/view?usp=sharing
  ### 2016 - 2019
  #### High School
 - Suranari Witthaya School
@@ -34,10 +35,7 @@ Greetings, my name is Natthanicha Boonluea. I am now a third year student who is
 - Observation
 - Multi-tasking
 - Drive a car
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 NatthanichaBoonluea/NatthanichaBoonluea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,7 +46,7 @@ Hello,
 ## Experiences 
 * During my study at the university
   * Term Project
-    * CS 245 Principles of Data Science
+    * CS245 Principles of Data Science
       * Predicting House Prices using Machine Learning Project 
       * Python programming for this project
       * link URL to project : https://github.com/NatthanichaBoonluea/Term-Project

@@ -15,7 +15,8 @@ Greetings, my name is Natthanicha Boonluea. I am now a third year student who is
  - Major in Statistics
  - Minor in Data Science
  - [Transcript Terms .pdf](https://github.com/NatthanichaBoonluea/Personal/files/10353878/Transcript.4.term.pdf)
- - https://drive.google.com/file/d/11cgCq65MTyQOuYB88dWE4yG8un7JftJN/view?usp=sharing
+ - [Natthanicha Boonluea Transcript.pdf](https://github.com/NatthanichaBoonluea/Portfolio/files/11101015/Natthanicha.Boonluea.Transcript.pdf)
+
  ### 2016 - 2019
  #### High School
 - Suranari Witthaya School

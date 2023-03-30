@@ -7,7 +7,7 @@ deep understanding of statistical concepts and techniques.
 * Phone  : +66964194608
 * E-mail : natthanichazp@gmail.com
 * linkIn : https://www.linkedin.com/in/natthanicha-boonluea-676195259/
-* Adress : 99, Moo 18, Khlong Nueng, Khlong Luang, Pathum Thani,  12120
+* Address : 99, Moo 18, Khlong Nueng, Khlong Luang, Pathum Thani,  12120
 ## Education
 ### 2019 - current
 #### Bachelor's Degree
